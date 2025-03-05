@@ -82,9 +82,7 @@
 
 <div>
   <h2>
-    If you have sth to ask , feel free to contact me.
+    If you have sth to ask , feel free to contact me [Takhi](https://t.me/Takhi777).
   </h2>
-  <a href="https://gmail.com">Gmail : akiyoshinakao95911@gmail.com</a><br/>
-  <a href="https://discord.com">Discord : @solkeen</a><br/>
   </body>
 </html>
